@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.dti_hw_v2",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "app-universal-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "app-arm64-v8a-debug.apk"
+    }
+  ]
+}

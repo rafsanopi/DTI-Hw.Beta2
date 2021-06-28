@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.dti_hw_v2",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "universal/AndroidManifest.xml"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "arm64-v8a/AndroidManifest.xml"
+    }
+  ]
+}

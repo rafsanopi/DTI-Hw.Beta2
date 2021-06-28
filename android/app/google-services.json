@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981703353501",
+    "project_id": "dti-hw-7672e",
+    "storage_bucket": "dti-hw-7672e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981703353501:android:c9896b08549460ccd86074",
+        "android_client_info": {
+          "package_name": "com.example.dti_hw_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981703353501-8j122m0sno5mb36ujmpt89johl25idg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3imfEzUzEp4gTZh7DAzrHRWwqjPYfMzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981703353501-8j122m0sno5mb36ujmpt89johl25idg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

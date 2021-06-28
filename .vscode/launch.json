@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "dti_hw_v2 (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            // "args": [
+            //     "--flavor",
+            //     "ADD_YOUR_FLAVOR_NAME_HERE" //development or staging or production
+            // ]
+        },
+       
+    ]
+}

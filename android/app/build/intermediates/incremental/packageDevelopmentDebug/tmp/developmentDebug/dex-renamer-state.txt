@@ -1,0 +1,7 @@
+#Thu May 20 20:45:05 BDT 2021
+base.0=F\:\\Flutter_Projects\\Personal\\A_Hw_Apps\\dti_hw_v2\\android\\app\\build\\intermediates\\dex\\developmentDebug\\mergeDexDevelopmentDebug\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\Flutter_Projects\\Personal\\A_Hw_Apps\\dti_hw_v2\\android\\app\\build\\intermediates\\dex\\developmentDebug\\mergeDexDevelopmentDebug\\classes2.dex
